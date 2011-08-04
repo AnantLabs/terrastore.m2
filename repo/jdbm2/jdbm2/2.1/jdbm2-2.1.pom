@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>jdbm2</groupId>
+  <artifactId>jdbm2</artifactId>
+  <version>2.1</version>
+  <name>jdbm2</name>
+  <description>jdbm2</description>
+  <dependencies>
+  </dependencies>
+</project>
